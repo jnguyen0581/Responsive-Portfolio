@@ -77,8 +77,8 @@ body {
     background: #4aaaa5;
   }
   
-  nav {
-    float: right;
+  #navbar-brand {
+    float: left;
     margin-top: 25px;
   }
   
